@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MyProject_VS_C#\\ConnectSQLite_KodanevAndrey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9813EFD6-C46A-4D95-84AE-81008C70ED93}|ConnectSQLite_KodanevAndrey\\ConnectSQLite_KodanevAndrey.csproj|E:\\MyProject_VS_C#\\ConnectSQLite_KodanevAndrey\\connectsqlite_kodanevandrey\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9813EFD6-C46A-4D95-84AE-81008C70ED93}|ConnectSQLite_KodanevAndrey\\ConnectSQLite_KodanevAndrey.csproj|solutionrelative:connectsqlite_kodanevandrey\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9813EFD6-C46A-4D95-84AE-81008C70ED93}|ConnectSQLite_KodanevAndrey\\ConnectSQLite_KodanevAndrey.csproj|e:\\myproject_vs_c#\\connectsqlite_kodanevandrey\\connectsqlite_kodanevandrey\\formcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9813EFD6-C46A-4D95-84AE-81008C70ED93}|ConnectSQLite_KodanevAndrey\\ConnectSQLite_KodanevAndrey.csproj|solutionrelative:connectsqlite_kodanevandrey\\formcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9813EFD6-C46A-4D95-84AE-81008C70ED93}|ConnectSQLite_KodanevAndrey\\ConnectSQLite_KodanevAndrey.csproj|e:\\myproject_vs_c#\\connectsqlite_kodanevandrey\\connectsqlite_kodanevandrey\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9813EFD6-C46A-4D95-84AE-81008C70ED93}|ConnectSQLite_KodanevAndrey\\ConnectSQLite_KodanevAndrey.csproj|solutionrelative:connectsqlite_kodanevandrey\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\MyProject_VS_C#\\ConnectSQLite_KodanevAndrey\\ConnectSQLite_KodanevAndrey\\Form1.cs",
+              "RelativeDocumentMoniker": "ConnectSQLite_KodanevAndrey\\Form1.cs",
+              "ToolTip": "E:\\MyProject_VS_C#\\ConnectSQLite_KodanevAndrey\\ConnectSQLite_KodanevAndrey\\Form1.cs",
+              "RelativeToolTip": "ConnectSQLite_KodanevAndrey\\Form1.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwEIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:41:32.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCreateDB.cs",
+              "DocumentMoniker": "E:\\MyProject_VS_C#\\ConnectSQLite_KodanevAndrey\\ConnectSQLite_KodanevAndrey\\FormCreateDB.cs",
+              "RelativeDocumentMoniker": "ConnectSQLite_KodanevAndrey\\FormCreateDB.cs",
+              "ToolTip": "E:\\MyProject_VS_C#\\ConnectSQLite_KodanevAndrey\\ConnectSQLite_KodanevAndrey\\FormCreateDB.cs",
+              "RelativeToolTip": "ConnectSQLite_KodanevAndrey\\FormCreateDB.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwGcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:02:11.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "E:\\MyProject_VS_C#\\ConnectSQLite_KodanevAndrey\\ConnectSQLite_KodanevAndrey\\DBHelper.cs",
+              "RelativeDocumentMoniker": "ConnectSQLite_KodanevAndrey\\DBHelper.cs",
+              "ToolTip": "E:\\MyProject_VS_C#\\ConnectSQLite_KodanevAndrey\\ConnectSQLite_KodanevAndrey\\DBHelper.cs",
+              "RelativeToolTip": "ConnectSQLite_KodanevAndrey\\DBHelper.cs",
+              "ViewState": "AQIAAD8BAAAAAAAAAAAYwNIBAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:55:56.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
